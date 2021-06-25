@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.grupo {
+  display: flex;
+  flex-direction: row;
+}
+
+.App-header {
+  background-color: #4472c4;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.botones {
+  background-color: #5b9bd5;
+  min-width: 500px;
+  max-height: 500px;
+  flex-direction: column;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  overflow: scroll;
+}
+
+.video {
+  height: 500px;
+  width: 1000px;
+  background-color: #5b9bd5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  outline: 10px solid #4472c4;
+}

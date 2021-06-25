@@ -1,0 +1,21 @@
+.circulo img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.boton {
+  background-color: #4472c4;
+  height: 80px;
+  width: 420px;
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  color: black;
+  outline: 10px solid #5b9bd5;
+}
+
+.espaciador {
+  color: transparent;
+  background-color: transparent;
+}

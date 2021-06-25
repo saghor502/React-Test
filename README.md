@@ -1,5 +1,5 @@
 ## proyecto:
-Se separa en dos partes, la primera es una sección donde se guardan los botones, esta sección es scrollable para que los botones no esten apretados o para que si, en algun momento dado, se quieran añadir botones estos se puedan agregar a la lista de la derecha.
+Se separa en dos partes, la primera es una sección donde se guardan los botones, esta sección es scrollable para que los botones no esten apretados o para que si, en algun momento dado, se quieran añadir botones estos se puedan agregar a la lista de la derecha. (Se usaron botones solo para confirmar más facilmente la selección de los videos).
 
 La parte de la derecha es el video seleccionado, este empeiza siendo el primer video de la lista auqnue se puede cambiar para que sea otro video o ninguno, esta parte reproduce el video de youtube y aparte agrega la opción de poner el video en pantalla completa, si esto se quiere quitar se pude cambiar la programación de esto.
 

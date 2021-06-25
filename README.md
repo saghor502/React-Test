@@ -1,3 +1,18 @@
+## proyecto:
+Se separa en dos partes, la primera es una sección donde se guardan los botones, esta sección es scrollable para que los botones no esten apretados o para que si, en algun momento dado, se quieran añadir botones estos se puedan agregar a la lista de la derecha.
+
+La parte de la derecha es el video seleccionado, este empeiza siendo el primer video de la lista auqnue se puede cambiar para que sea otro video o ninguno, esta parte reproduce el video de youtube y aparte agrega la opción de poner el video en pantalla completa, si esto se quiere quitar se pude cambiar la programación de esto.
+
+## código:
+Se hizo dos componentes o archivos base, la App y el botó, (que se agrego varias veces para poder abarcar los videos de data).
+
+El problema del código es que la base de datos está ya incluida o descargada dentro de la progra, si esto se quiere cambiar a obtenerse de un link la igualación de la variable será un poco diferente.
+
+Se añadió al git todo el proyecto más las fotos pero no se inlcuyó los nodes ya que estos toman mucho espacio auqnue igual se incluye el "package.json" que explica las versiones de las librerias utilizadas (para este proyecto se usarón las versiones más nuevas).
+
+## setup
+En las imagenes del setup se explican los códigos que se usaron para inicializar el proyecto y que este se abriera en el local host. También se puede hacer en la terminal de visual studio code.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
